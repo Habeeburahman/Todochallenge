@@ -1,6 +1,6 @@
 # Todoappchallenge
 
-## __________Short details about this project
+##                                                      Short details about this project
 
 
 This application is like other todo application. but in special every task we add in to this app will have a last time (we can customize that). so each and every task is challenge for user. every task should complete and mark as competed before its last time otherwise application will delete that task itself and mark a negative for user....in term of technical, all data will store in firebase, used getx as a state management in project,  local notification and android alarm manager used for deleting a task in background and inform user....
