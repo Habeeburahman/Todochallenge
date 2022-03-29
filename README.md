@@ -6,13 +6,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This application is like other todo application. but in special every task we add in to this app will have a last time (we can customize that). so each and every task is challenge for user. every task should complete and mark as competed before its last time otherwise application will delete that task itself and mark a negative for user....in term of technical, all data will store in firebase, used getx as a state management in project,  local notification and android alarm manager used for deleting a task in background and inform user....
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
